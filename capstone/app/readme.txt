@@ -1,0 +1,1 @@
+Contains four scripts for scraping links that lead to classical poems, cleaning the useless links, scraping poems into JSON files, organising poems according to their specific era/author/etc, and finally batch storing into neo4j DB insance.
