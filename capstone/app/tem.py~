@@ -1,0 +1,5 @@
+import json
+
+mouse = {"name": "gerald", "length": 22.5, "favorite_food": "gouda", "age": 2}
+print(json.dumps(mouse))
+type(json.dumps(mouse))
